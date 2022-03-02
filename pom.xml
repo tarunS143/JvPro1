@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.jdevs</groupId>
   <artifactId>Vamshi_Demo</artifactId>
-  <version>1.0.11-Release</version>
+  <version>1.0-Release</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://mynexusserver.com:8081/repository/Mynexus/</url>
+            <url>http://mynexusserver.com:8081/repository/Mynexus1/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://mynexusserver.com:8081/repository/Mynexussnap/</url>
+            <url>http://mynexusserver.com:8081/repository/Mysnapshop/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
